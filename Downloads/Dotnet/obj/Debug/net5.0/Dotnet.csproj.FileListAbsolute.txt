@@ -1,0 +1,16 @@
+C:\Users\ACER\Documents\Dotnet\Dotnet\bin\Debug\net5.0\Dotnet.exe
+C:\Users\ACER\Documents\Dotnet\Dotnet\bin\Debug\net5.0\Dotnet.deps.json
+C:\Users\ACER\Documents\Dotnet\Dotnet\bin\Debug\net5.0\Dotnet.runtimeconfig.json
+C:\Users\ACER\Documents\Dotnet\Dotnet\bin\Debug\net5.0\Dotnet.runtimeconfig.dev.json
+C:\Users\ACER\Documents\Dotnet\Dotnet\bin\Debug\net5.0\Dotnet.dll
+C:\Users\ACER\Documents\Dotnet\Dotnet\bin\Debug\net5.0\ref\Dotnet.dll
+C:\Users\ACER\Documents\Dotnet\Dotnet\bin\Debug\net5.0\Dotnet.pdb
+C:\Users\ACER\Documents\Dotnet\Dotnet\obj\Debug\net5.0\Dotnet.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Dotnet\Dotnet\obj\Debug\net5.0\Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Dotnet\Dotnet\obj\Debug\net5.0\Dotnet.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Dotnet\Dotnet\obj\Debug\net5.0\Dotnet.AssemblyInfo.cs
+C:\Users\ACER\Documents\Dotnet\Dotnet\obj\Debug\net5.0\Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Dotnet\Dotnet\obj\Debug\net5.0\Dotnet.dll
+C:\Users\ACER\Documents\Dotnet\Dotnet\obj\Debug\net5.0\ref\Dotnet.dll
+C:\Users\ACER\Documents\Dotnet\Dotnet\obj\Debug\net5.0\Dotnet.pdb
+C:\Users\ACER\Documents\Dotnet\Dotnet\obj\Debug\net5.0\Dotnet.genruntimeconfig.cache
